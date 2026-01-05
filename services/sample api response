@@ -1,0 +1,15 @@
+{
+  "summary": {
+    "totalInvestment": 1500000,
+    "totalReturns": 230000,
+    "roi": 15.3
+  },
+  "performance": [
+    { "month": "Jan", "value": 1200000 },
+    { "month": "Feb", "value": 1300000 },
+    { "month": "Mar", "value": 1500000 }
+  ],
+  "transactions": [
+    { "id": 1, "date": "2025-01-12", "type": "Contribution", "amount": 200000, "status": "Completed" }
+  ]
+}
