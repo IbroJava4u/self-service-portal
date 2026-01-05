@@ -1,6 +1,6 @@
 import './App.css'
 
-import HomeApp from '../services/HomeApp'
+import AppRoutes from '../routes'
 
 function App() {
 
@@ -8,7 +8,7 @@ function App() {
 
 <>
   <div>
-<HomeApp/>
+<AppRoutes/>
   </div>
 </>
 

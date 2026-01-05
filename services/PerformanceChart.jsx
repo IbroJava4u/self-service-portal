@@ -38,7 +38,7 @@ export default function PerformanceChart({ data = [] }) {
 
   return (
     <div className="chart-wrapper">
-      <h2>Investment Performance</h2>
+      <h2>Investment Performance Chart</h2>
       <div style={{ height: '300px' }}>
         <Line data={chartData} options={chartOptions} />
       </div>
